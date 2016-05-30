@@ -19,4 +19,4 @@ The system must provide :
 * https://en.wikipedia.org/wiki/Git_(software)
 * 
 
-Auteurs: Eric TAN, Lionel ANDRIEU et Michaël BINACCHI.
+## Auteurs: Eric TAN, Lionel ANDRIEU et Michaël BINACCHI.
