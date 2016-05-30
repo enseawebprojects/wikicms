@@ -17,3 +17,6 @@ The system must provide :
 
 * https://www.mediawiki.org/wiki/MediaWiki
 * https://en.wikipedia.org/wiki/Git_(software)
+* 
+
+Auteurs: Eric TAN, Lionel ANDRIEU et Michaël BINACCHI.
