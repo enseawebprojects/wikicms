@@ -1,4 +1,6 @@
 # Wiki CMS
+It's a test for git
+
 A wiki-enabled Content Management System
 
 
