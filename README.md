@@ -1,5 +1,5 @@
 # Wiki CMS
-It's a test for git
+It's ok
 
 A wiki-enabled Content Management System
 
