@@ -1,6 +1,6 @@
 # Wiki CMS
 It's ok and cool
-Grande modification
+Grande modification sur la machine locale
 A wiki-enabled Content Management System
 
 
