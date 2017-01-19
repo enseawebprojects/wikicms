@@ -1,12 +1,6 @@
 # Wiki CMS
 It's ok and cool
-
-petite modif
-change from local machine
-
-
-
-petite modification 342
+Grande modification
 A wiki-enabled Content Management System
 
 
