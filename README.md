@@ -1,11 +1,15 @@
 # Wiki CMS
 It's ok and cool
 <<<<<<< HEAD
+<<<<<<< HEAD
 petite modif
 =======
 change from local machine
 
 >>>>>>> 975120658c74f2c61688019e1986551b709782e2
+=======
+petite modification
+>>>>>>> c7918bbbf2f9a20ee5b8a9e5e652660946e943c2
 A wiki-enabled Content Management System
 
 
