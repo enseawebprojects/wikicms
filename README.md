@@ -1,5 +1,6 @@
 # Wiki CMS
 It's ok and cool
+change from local machine
 
 A wiki-enabled Content Management System
 
