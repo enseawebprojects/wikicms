@@ -1,7 +1,9 @@
 # Wiki CMS
 It's ok and cool
-Grande modification sur la machine locale
-Ensuite modif sur github
+Grande modification sur la machine locale.
+Ensuite modif sur github.
+On a réussi le git pull!!!
+
 A wiki-enabled Content Management System
 
 
