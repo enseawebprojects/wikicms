@@ -1,5 +1,5 @@
 # Wiki CMS
-It's ok
+It's ok and cool
 
 A wiki-enabled Content Management System
 
