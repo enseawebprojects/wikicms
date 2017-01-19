@@ -1,6 +1,6 @@
 # Wiki CMS
 It's ok and cool
-petite modif
+petite modification
 A wiki-enabled Content Management System
 
 
