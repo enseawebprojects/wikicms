@@ -1,8 +1,9 @@
-# Wiki CMS
+﻿# Wiki CMS
 It's ok and cool
 Grande modification sur la machine locale.
 Ensuite modif sur github.
 On a réussi le git pull!!!
+Hey, what's up?
 
 A wiki-enabled Content Management System
 
